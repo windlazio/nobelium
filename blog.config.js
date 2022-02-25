@@ -2,7 +2,7 @@ const BLOG = {
   title: 'Pavel Han的博客',
   author: 'Pavel Han',
   email: 'pavelhan@163.com',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://pavelhan.vercel.app',
   description: '专注于音视频、摄像头、消费类电子、智能硬件、物联网等行业',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
