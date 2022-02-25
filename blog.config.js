@@ -10,8 +10,8 @@ const BLOG = {
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
-  since: 2021, // If leave this empty, current year will be used.
-  postsPerPage: 7,
+  since: 2020, // If leave this empty, current year will be used.
+  postsPerPage: 8,
   sortByDate: false,
   showAbout: true,
   showArchive: true,
@@ -32,7 +32,7 @@ const BLOG = {
       domainId: '' // e.g '0e2257a8-54d4-4847-91a1-0311ea48cc7b'
     },
     gaConfig: {
-      measurementId: '' // e.g: G-XXXXXXXXXX
+      measurementId: 'UA-166241725-1' // e.g: G-XXXXXXXXXX
     }
   },
   comment: {
